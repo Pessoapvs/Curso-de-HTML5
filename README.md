@@ -5,6 +5,9 @@
 
 Estou iniciando o curso de **HTML5**, e este repositório será utilizado para demonstrar a evolução do conhecimento adquirido ao longo do curso. O objetivo principal é a criação de um site que incorporará diversos elementos e técnicas aprendidos durante o processo.
 
+## Link do curso:
+https://www.youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o
+
 ## Objetivo Principal
 
 O objetivo final é desenvolver um **site completo** aplicando os conceitos de HTML5, com foco em:
